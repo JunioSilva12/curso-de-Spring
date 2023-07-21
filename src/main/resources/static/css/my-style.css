@@ -1,0 +1,10 @@
+.no-arrow-input::-webkit-inner-spin-button,
+.no-arrow-input::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.no-arrow-input {
+       appearance: textfield;
+  -moz-appearance: textfield; /* Para Firefox */
+}
